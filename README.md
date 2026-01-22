@@ -29,5 +29,10 @@ Some skills I have include:
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
 </p>
 
-You may contact me through my e-mail:
-  * sramos@addu.edu.ph
+You may contact me through:
+  * my email - sramos@addu.edu.ph
+
+
+<p align="center">
+  <img img width="1280" height="320" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/banner/oh%20wait%20someone%E2%80%99s%20here.png">
+</p>
