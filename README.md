@@ -3,6 +3,8 @@
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
 </p>
 
+### Something about me
+Currently a second year Computer Engineering student. Hopefully going to make it in the world. I take inspiration from many works of art and video games.
 ---
 
 <p align="center">
