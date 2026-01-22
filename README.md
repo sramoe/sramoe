@@ -1,14 +1,14 @@
 ## Welcome! 
 <p align="center">
-  <img img width="1000" height="250" \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
+  <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
 </p>
 
 <p align="center">
-  <img img width="1000" height="250" \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(1).png">
+  <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(1).png">
 </p>
 
 <p align="center">
-  <img img width="1000" height="250" \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
+  <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
 </p>
 
 
