@@ -1,5 +1,5 @@
 Welcome!
-(https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png)
+!(https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png)
 
 
 
