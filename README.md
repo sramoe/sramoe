@@ -8,7 +8,7 @@
 
 ### About Me
  
-Currently, I'm a second year Computer Engineering student. 
+Currently, I'm a second year Computer Engineering student.\n
 In the future, hopefully I'll make it in the world.
 I take inspiration from many works of art and video games.
 
