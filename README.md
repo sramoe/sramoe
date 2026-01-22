@@ -8,7 +8,7 @@
 
 ### About Me
  
-Currently, I'm a second year Computer Engineering student.\n
+Currently, I'm a second year Computer Engineering student.
 In the future, hopefully I'll make it in the world.
 I take inspiration from many works of art and video games.
 
@@ -22,3 +22,6 @@ I take inspiration from many works of art and video games.
 <p align="center">
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
 </p>
+
+You may contact me through my e-mail:
+  * sramos@addu.edu.ph
