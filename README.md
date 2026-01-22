@@ -2,9 +2,12 @@
 <p align="center">
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
 </p>
+Programming to fruition, one day at a time
 
 ### Something about me
-###### Currently a second year Computer Engineering student. Hopefully going to make it in the world. I take inspiration from many works of art and video games.
+##### Currently, I'm a second year Computer Engineering student. In the future, hopefully I'll make it in the world.
+
+I take inspiration from many works of art and video games.
 ---
 
 <p align="center">
