@@ -1,6 +1,11 @@
-Welcome!
-![](https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png)
+## Welcome! 
+<p align="center">
+  <img \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
+</p>
 
+
+
+![](https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png)
 
 
 # 💻 Tech Stack:
