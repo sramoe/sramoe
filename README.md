@@ -32,7 +32,8 @@ Some skills I have include:
 You may contact me through:
   * my email - sramos@addu.edu.ph
 
-
+---
+### That is all. Thanks for reading!
 <p align="center">
   <img img width="1280" height="320" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/banner/oh%20wait%20someone%E2%80%99s%20here.png">
 </p>
