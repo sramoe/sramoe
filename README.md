@@ -3,10 +3,13 @@
   <img \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
 </p>
 
+<p align="center">
+  <img \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(1).png">
+</p>
 
-
-![](https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png)
-
+<p align="center">
+  <img \src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
+</p>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
