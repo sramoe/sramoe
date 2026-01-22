@@ -18,6 +18,12 @@ I take inspiration from many works of art and video games.
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(1).png">
 </p>
 
+Some skills I have include:
+  * C# programming experience
+  * Python programming experience
+  * Pixel art creation
+  * Canva presentation creation skills
+
 ---
 <p align="center">
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/header%20titles%20(2).png">
