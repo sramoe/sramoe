@@ -1,4 +1,4 @@
-## Welcome to sramoe's page!
+##  Welcome to sramoe's page!
 <p align="center">
   <img img width="1000" height="250" src="https://github.com/sramoe/Elective-Laboratories/blob/main/laboratory%202/branding/resume%20header.png">
 </p>
